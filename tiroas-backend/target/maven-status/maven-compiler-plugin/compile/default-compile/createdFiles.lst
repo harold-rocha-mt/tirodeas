@@ -1,0 +1,6 @@
+com\tiroas\entity\Product.class
+com\tiroas\repository\crud\ProductCrudRepository.class
+com\tiroas\service\ProductService.class
+com\tiroas\repository\ProductRepository.class
+com\tiroas\controller\ProductController.class
+com\tiroas\TiroasApplication.class
